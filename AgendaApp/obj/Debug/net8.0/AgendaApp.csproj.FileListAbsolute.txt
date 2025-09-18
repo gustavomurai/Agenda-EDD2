@@ -1,0 +1,14 @@
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\bin\Debug\net8.0\AgendaApp.exe
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\bin\Debug\net8.0\AgendaApp.deps.json
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\bin\Debug\net8.0\AgendaApp.runtimeconfig.json
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\bin\Debug\net8.0\AgendaApp.dll
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\bin\Debug\net8.0\AgendaApp.pdb
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\AgendaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\AgendaApp.AssemblyInfoInputs.cache
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\AgendaApp.AssemblyInfo.cs
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\AgendaApp.csproj.CoreCompileInputs.cache
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\AgendaApp.dll
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\refint\AgendaApp.dll
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\AgendaApp.pdb
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\AgendaApp.genruntimeconfig.cache
+C:\Projetos\RestauranteApp\AgendaApp\AgendaApp\obj\Debug\net8.0\ref\AgendaApp.dll
